@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Carla Mozée",
+            "title": "Michael Saylor's MicroStrategy adds to its bitcoin trove, purchasing 1,045 coins for $24 million",
+            "description": "The business software maker now holds 140,000 bitcoin and the value of that stash was nearly $4 billion with bitcoin trading above $28,000.",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-microstrategy-cryptocurrency-michael-saylor-coins-buys-holding-value-mstr-2023-4",
+            "urlToImage": "https://i.insider.com/631133643fe7c40019e4f2fd?width=1200&format=jpeg",
+            "publishedAt": "2023-04-05T16:47:03Z",
+            "content": "Michael Saylor is facing a $100 million lawsuit for tax evasionMarco Bello/Getty Images\r\n<ul>\n<li>MicroStrategy continued to build its bitcoin stash in early April, buying 1,045 coins. </li>\n<li>It b… [+1587 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "Bitcoin storms toward its strongest quarter in 2 years with a 72% jump, outperforming the Nasdaq and gold",
+            "description": "The world's largest cryptocurrency is enjoying massive gains even though just a few months ago, some experts warned of a further crash.",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-today-q1-nasdaq-gold-fed-rate-hikes-crypto-2023-3",
+            "urlToImage": "https://i.insider.com/6424307ded593e00183f0aad?width=1200&format=jpeg",
+            "publishedAt": "2023-03-29T13:10:39Z",
+            "content": "Bitcoin has stormed to a 72% gain over the last three months and is on track for its strongest quarter in two years.\r\nThe token has outperformed both the Nasdaq 100 and gold, which are up 15% and 9%,… [+1167 chars]"
+        }
+    ]
+}
