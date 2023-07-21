@@ -1,4 +1,3 @@
-#FEEDLY
 
 Created a Realtime News-App with React and Bootstrap as frontend,
 
